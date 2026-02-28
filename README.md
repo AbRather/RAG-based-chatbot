@@ -1,5 +1,9 @@
 # 🏛️ Azure GenAI Workbench: Hybrid RAG Architecture
 
+# 🏛️ Azure GenAI Workbench: Hybrid RAG Architecture
+
+![Azure GenAI Workbench Demo](assets/RAG-chatbot.png)
+
 A production-grade Proof-of-Concept (PoC) demonstrating a decoupled, multi-model RAG (Retrieval-Augmented Generation) pipeline with continuous evaluation and telemetry.
 
 ## 🏗️ Architectural Overview
