@@ -1,0 +1,10 @@
+ENTERPRISE ARCHITECTURE DOCUMENT v2.4
+
+The company recently implemented a hybrid search RAG pipeline. 
+By combining semantic search via ChromaDB and BM25 keyword search, the system achieved a 94% retrieval accuracy.
+
+Cost optimizations:
+Switching from standard GPT-4 to GPT-4o-Mini for simple summarization tasks reduced API costs by 14% in Q3.
+
+Security Protocols:
+All vector databases are stored locally and are never exposed to public endpoints.

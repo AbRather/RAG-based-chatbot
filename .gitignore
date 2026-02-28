@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+.next/
+
+# Secrets & Local Data
+.env
+chroma_db/
+evaluation_log.jsonl
+
+# Ignore Jupyter Notebooks and Heavy PDFs
+*.ipynb
+*.pdf
+data/*.ipynb
+*.pdf
+data/
+rag-backend/data/
+chroma_db/
+.env
